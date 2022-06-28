@@ -1,0 +1,100 @@
+{
+  "main": {
+    "id": "37ed4b19089d4495",
+    "type": "split",
+    "children": [
+      {
+        "id": "0a9ce520b52b09de",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "数论/多项式/_多项式习题.md",
+            "mode": "source"
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "952176d254523669",
+    "type": "split",
+    "children": [
+      {
+        "id": "afc1c1391623ca1c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8f753caa8f726966",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "69b4234a93d813b3",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "cac72fc00ea8672c",
+    "type": "split",
+    "children": [
+      {
+        "id": "1f8c6fa998aaf6b2",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9802fcca892d31f2",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "数论/多项式/_多项式习题.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "active": "0a9ce520b52b09de",
+  "lastOpenFiles": [
+    "数论/多项式/_多项式习题.md",
+    "数论/多项式/分治FFT.md",
+    "数论/多项式/FFT.md",
+    "数论/多项式/NTT.md",
+    "数论/多项式/MTT.md",
+    "数据结构/线段树/李超线段树.md",
+    "数据结构/线段树/珂朵莉树.md",
+    "未命名.md",
+    "Untitled.md"
+  ]
+}
