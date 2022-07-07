@@ -1,5 +1,5 @@
 # NTT
-```c++
+```cpp
 #include <algorithm>
 #include <cstdio>
 #include <cstring>
@@ -90,7 +90,6 @@ int main() {
 ```
 
 # FFT
-```c++
 ```cpp
 #include<cmath>
 #include<cstdio>
@@ -150,5 +149,4 @@ int main(){
     printf("\n");
     return 0;
 }
-```
 ```

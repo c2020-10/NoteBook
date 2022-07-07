@@ -57,7 +57,7 @@ $\large A(w_n^{m+\frac{n}{2}})=A_0(w_{\frac{n}{2}}^m)-w_n^mA_1(w_{\frac{n}{2}}^{
 
 ## 【模板】A*B Problem 升级版（FFT 快速傅里叶变换）
 
-```c++
+```cpp
 #include<bits/stdc++.h>
 #define x first
 #define y second
@@ -143,10 +143,9 @@ signed main()
 
 
 
+
 ## 【模板】多项式乘法（FFT）
-
-
-```c++
+```cpp
 #include<bits/stdc++.h>
 #define x first
 #define y second

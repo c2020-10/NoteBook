@@ -14,7 +14,7 @@ NTT 解决的是多项式乘法带模数的情况，可以说有些受模数的�
 
 **离散傅里叶变换**(Discrete Fourier transform，DFT) 是傅里叶变换在时域和频域上都呈离散的形式，将信号的时域采样变换为其 DTFT 的频域采样。
 
-```c++
+```cpp
 #include<bits/stdc++.h>
 #define x first
 #define y second
