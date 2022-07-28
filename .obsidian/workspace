@@ -4,24 +4,26 @@
     "type": "split",
     "children": [
       {
-        "id": "a2f44bfaffba88f9",
+        "id": "9869abcfd1728098",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Tool/STL.md",
-            "mode": "source"
+            "file": "模板/Algorithm.md",
+            "mode": "source",
+            "source": false
           }
         }
       },
       {
-        "id": "0f68fd0ff5905b91",
+        "id": "c87aafd3ab6ee2c8",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Tool/STL.md",
-            "mode": "preview"
+            "file": "模板/Algorithm.md",
+            "mode": "preview",
+            "source": false
           }
         }
       }
@@ -79,13 +81,13 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Tool/STL.md",
+                "file": "模板/Algorithm.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
                 "searchQuery": "",
-                "backlinkCollapsed": false,
+                "backlinkCollapsed": true,
                 "unlinkedCollapsed": true
               }
             }
@@ -96,17 +98,17 @@
     "direction": "horizontal",
     "width": 100
   },
-  "active": "a2f44bfaffba88f9",
+  "active": "c87aafd3ab6ee2c8",
   "lastOpenFiles": [
-    "Tool/STL.md",
-    "图论/最小生成树.md",
-    "图论/克鲁斯卡尔重构树.md",
-    "图论/最短路径.md",
-    "数论/线性同余/BSGS.md",
-    "Pasted image 20220708000304.png",
-    "数据结构/二叉搜索树&&平衡树/笛卡尔树.md",
-    "数论/线性代数/高斯消元.md",
-    "数论/线性代数/线性基.md",
-    "数论/多项式/多项式对数.md"
+    "Pasted image 20220727003009.png",
+    "Pasted image 20220727003218.png",
+    "Pasted image 20220727003220.png",
+    "模板/Algorithm.md",
+    "算法/字符串/SA.md",
+    "算法/字符串/SAM.md",
+    "算法/字符串/哈希.md",
+    "算法/数论/多项式/NTT.md",
+    "算法/数论/多项式/MTT.md",
+    "算法/数论/多项式/FFT.md"
   ]
 }

@@ -477,3 +477,14 @@ int main(){
 	cout<<a<<' '<<b<<endl;
 }
 ```
+
+## 练习
+
+- 查找 
+	https://www.luogu.com.cn/problem/P2249
+- 栈
+	https://www.luogu.com.cn/problem/B3614
+- 队列
+	https://www.luogu.com.cn/problem/B3616
+- 堆
+	https://www.luogu.com.cn/problem/P3378
